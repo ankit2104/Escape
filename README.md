@@ -1,6 +1,6 @@
 # Escape
 
-Escape Maze game developed in unity.
+Escape maze game is developed in unity.
 
 
 
