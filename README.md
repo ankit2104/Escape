@@ -5,7 +5,7 @@ Escape Maze game developed in unity.
 
 
 **About**<br/>
-The user may play the maze game in a virtual environment using VR technology using a computer and a VR headset in this game.
+With the help of a computer and a VR headset, the user could play the maze game in a virtual world using VR technology.
 
 
 
